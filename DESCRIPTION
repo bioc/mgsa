@@ -1,5 +1,5 @@
 Package: mgsa
-Version: 1.14.1
+Version: 1.14.2
 Date: 2013-03-07
 Title: Model-based gene set analysis
 Author: Sebastian Bauer <mail@sebastianbauer.info>, Julien Gagneur
@@ -16,4 +16,5 @@ License: Artistic-2.0
 biocViews: Pathways, GO, GeneSetEnrichment
 LazyLoad: yes
 Collate: 'dottedTable.R' 'MgsaSets-class.R' 'MgsaGoSets-class.R'
-    'MgsaResults-class.R' 'mgsa-methods.R' 'mgsa-package.R' 'zzz.R'
+        'MgsaResults-class.R' 'mgsa-methods.R' 'mgsa-package.R' 'zzz.R'
+Packaged: 2014-10-31 20:11:42 UTC; dtenenba
